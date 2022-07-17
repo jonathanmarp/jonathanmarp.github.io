@@ -1,0 +1,7 @@
+.LogoBlock {
+    @apply flex items-center justify-center p-4 w-[150px] h-[150px];
+}
+
+.LogoAbout {
+    @apply w-[200px] h-[200px] lg:w-[250px] lg:h-[250px] flex items-center justify-center;
+}
